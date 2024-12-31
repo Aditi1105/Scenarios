@@ -2,7 +2,11 @@
 Scenario: 1 Query to get who are getting equal salary
 Input: ![image](https://github.com/user-attachments/assets/448ddf3c-4d3f-45ec-9a2b-8838b9839f2e)
 
-Output: ![image](https://github.com/user-attachments/assets/947c2565-d480-4262-bcd4-ed590d6490da)
+
+
+Output:  ![image](https://github.com/user-attachments/assets/947c2565-d480-4262-bcd4-ed590d6490da)
+
+
 
 
 Solution: # Create the data
